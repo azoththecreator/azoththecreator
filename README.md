@@ -14,11 +14,11 @@
  :@@@@@:        @@@@@        :@@@@:     
   :@@@@@:                   :@@@@@:     
    :@@@@@@:               :@@@@@@:      
-    :@@@@@@@:           :@@@@@@@:       
-     :@@@@@@@@:::::::::@@@@@@@@:        class_name Contacts
-       :@@@@@@@@@@@@@@@@@@@@@:          ###################
-          :@@@@@@@@@@@@@@@@:            var email: string = "flod1998@naver.com"
-               :@@@@@@:                 var itch: string = "https://azoththecreator.itch.io"
+    :@@@@@@@:           :@@@@@@@:       var contacts: Dictionary = {
+     :@@@@@@@@:::::::::@@@@@@@@:            "email" = "flod1998@naver.com"
+       :@@@@@@@@@@@@@@@@@@@@@:              "steam" = "https://steamcommunity.com/id/azoththecreator"
+          :@@@@@@@@@@@@@@@@:                "itch" = "https://azoththecreator.itch.io"
+               :@@@@@@:                 }
 
 ```
 <!--
