@@ -4,7 +4,7 @@
               :@@@@@:                   class_name AZOThtheCreator
           :@@@@@: :@@@:.                ##########################
        :@@@@@@@@@@@@@:  :::             var birth: Dictionary = {"year": 1998, "month": 2, "day": 7}
-     :@@@@@@@@::         ::::           var location: string = "Gyeongsan, Korea"
+     :@@@@@@@@::         :@::           var location: string = "Gyeongsan, Korea"
     :@@@@@@@:             ::@::         var languages: Array = ["C", "C#", "GDScript"]
    :@@@@@@:                ::@@::       var pc_specs: Dictionary = {
   :@@@@@:                   :@@@@:          "os" = "Windows 11"
