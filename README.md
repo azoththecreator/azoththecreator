@@ -3,12 +3,12 @@
 
               :@@@@@:                   class_name AZOThtheCreator
           :@@@@@: :@@@:.                ##########################
-       :@@@@@@@@@@@@@:  :::             var age: int = 26
+       :@@@@@@@@@@@@@:  :::             var birth: Dictionary = {"year": 1998, "month": 2, "day": 7}
      :@@@@@@@@::         ::::           var region: string = "Gyeongsan, Korea"
     :@@@@@@@:             ::@::         var languages: Array = ["C", "C#", "GDScript"]
-   :@@@@@@:                ::@@::       var os: string = "Windows 11"
-  :@@@@@:                   :@@@@:      var editor: string = "VS Code"
- :@@@@@:        @@@@@        :@@@@:     
+   :@@@@@@:                ::@@::       var pc_specs: Dictionary = {
+  :@@@@@:                   :@@@@:          "os" = "Windows 11"
+ :@@@@@:        @@@@@        :@@@@:     }
  :@@@@@:       @@@@@@@       :@@@@:     
  :@@@@@:       @@@@@@@       :@@@@:     
  :@@@@@:        @@@@@        :@@@@:     
