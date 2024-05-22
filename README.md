@@ -8,8 +8,8 @@
     :@@@@@@@:             ::@::         var languages: Array = ["C", "C#", "GDScript"]
    :@@@@@@:                ::@@::       var pc_specs: Dictionary = {
   :@@@@@:                   :@@@@:          "os" = "Windows 11 x64"
- :@@@@@:        @@@@@        :@@@@:     	"cpu" = "AMD Ryzen 5 3600"
- :@@@@@:       @@@@@@@       :@@@@:     	"gpu" = "GeForce RTX 2070 SUPER"
+ :@@@@@:        @@@@@        :@@@@:         "cpu" = "AMD Ryzen 5 3600"
+ :@@@@@:       @@@@@@@       :@@@@:         "gpu" = "GeForce RTX 2070 SUPER"
  :@@@@@:       @@@@@@@       :@@@@:     }
  :@@@@@:        @@@@@        :@@@@:     
   :@@@@@:                   :@@@@@:     
