@@ -3,7 +3,7 @@
               :@@@@@:                   class_name AZOThtheCreator
           :@@@@@@Ｏ@@@: .               ##########################
        :@@@@@@@@@@@@@:   ::             var age: int = 26
-     :@@@@@@@:::::       ::::           var region: string = "Gyeongsan, Korea"
+     :@@@@@@@@::         ::::           var region: string = "Gyeongsan, Korea"
     :@@@@@@@:             ::@::         var languages: Array = ["C", "C#", "GDScript"]
    :@@@@@@:                ::@@::       var os: string = "Windows11"
   :@@@@@:                   :@@@@:      var editor: string = "VS Code"
