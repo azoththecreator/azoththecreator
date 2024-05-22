@@ -2,7 +2,7 @@
 ```gdscript
 
               :@@@@@:                   class_name AZOThtheCreator
-          :@@@@@: :@@: .               ##########################
+          :@@@@@: :@@@: .               ##########################
        :@@@@@@@@@@@@@:   ::             var age: int = 26
      :@@@@@@@@::         ::::           var region: string = "Gyeongsan, Korea"
     :@@@@@@@:             ::@::         var languages: Array = ["C", "C#", "GDScript"]
