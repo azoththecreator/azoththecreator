@@ -5,7 +5,7 @@
           :@@@@@: :@@@:.                ##########################
        :@@@@@@@@@@@@@:  :::             var birth: Dictionary = {"year": 1998, "month": 2, "day": 7}
      :@@@@@@@@::         :@::           var location: string = "Republic of Korea"
-    :@@@@@@@:             ::@::         var languages: Array = ["C", "C#", "GDScript"]
+    :@@@@@@@:             ::@::         var languages: Array = ["C", "C++", "C#", "GDScript"]
    :@@@@@@:                ::@@::       var pc_specs: Dictionary = {
   :@@@@@:                   :@@@@:          "os" = "Windows 11 x64"
  :@@@@@:        @@@@@        :@@@@:         "cpu" = "AMD Ryzen 5 3600"
