@@ -15,7 +15,7 @@
   :@@@@@:                   :@@@@@:     
    :@@@@@@:               :@@@@@@:      
     :@@@@@@@:           :@@@@@@@:       var contacts: Dictionary = {
-     :@@@@@@@@:::::::::@@@@@@@@:            "email" = "flod1998@naver.com"
+     :@@@@@@@@:::::::::@@@@@@@@:            "email" = "azoththecreator@gmail.com"
        :@@@@@@@@@@@@@@@@@@@@@:              "steam" = "https://steamcommunity.com/id/azoththecreator"
           :@@@@@@@@@@@@@@@@:                "itch" = "https://azoththecreator.itch.io"
                :@@@@@@:                 }
