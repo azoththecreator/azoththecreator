@@ -5,7 +5,7 @@ class_name AZOThtheCreator                                          #           
 extends Node                                                        #              :@@@@@: :@@@:.
                                                                     #           :@@@@@@@@@@@@@:  :::
 var birth: int = 07_02_1998                                         #         :@@@@@@@@::         :@::
-var location: string = "Republic of Korea"                          #        :@@@@@@@:             ::@::
+var location: String = "Republic of Korea"                          #        :@@@@@@@:             ::@::
 var languages: Array = ["C", "C++", "GDScript"]                     #       :@@@@@@:                ::@@::
 var contacts: Dictionary = {                                        #      :@@@@@:                   :@@@@:
     "email" = "azoththecreator@gmail.com",                          #     :@@@@@:        @@@@@        :@@@@:
