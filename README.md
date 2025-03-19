@@ -1,24 +1,24 @@
 <!-- ## Hi there 👋 -->
 ```gdscript
 
-class_name AZOThtheCreator                                          #                  :@@@@@:                   
-extends Node                                                        #              :@@@@@: :@@@:.                
-                                                                    #           :@@@@@@@@@@@@@:  :::             
-var birth: int = 07_02_1998                                         #         :@@@@@@@@::         :@::           
-var location: string = "Republic of Korea"                          #        :@@@@@@@:             ::@::         
-var languages: Array = ["C", "C++", "GDScript"]                     #       :@@@@@@:                ::@@::       
-var contacts: Dictionary = {                                        #      :@@@@@:                   :@@@@:      
-    "email" = "azoththecreator@gmail.com",                          #     :@@@@@:        @@@@@        :@@@@:     
-    "steam" = "https://steamcommunity.com/id/azoththecreator",      #     :@@@@@:       @@@@@@@       :@@@@:     
-    "itch" = "https://azoththecreator.itch.io",                     #     :@@@@@:       @@@@@@@       :@@@@:         
-}                                                                   #     :@@@@@:        @@@@@        :@@@@:     
-                                                                    #      :@@@@@:                   :@@@@@:     
-                                                                    #       :@@@@@@:               :@@@@@@:      
-func _ready() -> void:                                              #        :@@@@@@@:           :@@@@@@@:       
-    print_my_project(3094630)                                       #         :@@@@@@@@:::::::::@@@@@@@@:        
-                                                                    #           :@@@@@@@@@@@@@@@@@@@@@:          
-func print_my_project(store_id: int) -> void:                       #              :@@@@@@@@@@@@@@@@:            
-    print("https://store.steampowered.com/app/" + str(store_id))    #                   :@@@@@@:                     
+class_name AZOThtheCreator                                          #                  :@@@@@:
+extends Node                                                        #              :@@@@@: :@@@:.
+                                                                    #           :@@@@@@@@@@@@@:  :::
+var birth: int = 07_02_1998                                         #         :@@@@@@@@::         :@::
+var location: string = "Republic of Korea"                          #        :@@@@@@@:             ::@::
+var languages: Array = ["C", "C++", "GDScript"]                     #       :@@@@@@:                ::@@::
+var contacts: Dictionary = {                                        #      :@@@@@:                   :@@@@:
+    "email" = "azoththecreator@gmail.com",                          #     :@@@@@:        @@@@@        :@@@@:
+    "steam" = "https://steamcommunity.com/id/azoththecreator",      #     :@@@@@:       @@@@@@@       :@@@@:
+    "itch" = "https://azoththecreator.itch.io",                     #     :@@@@@:       @@@@@@@       :@@@@:
+}                                                                   #     :@@@@@:        @@@@@        :@@@@:
+                                                                    #      :@@@@@:                   :@@@@@:
+                                                                    #       :@@@@@@:               :@@@@@@:
+func _ready() -> void:                                              #        :@@@@@@@:           :@@@@@@@:
+    print_my_project(3094630)                                       #         :@@@@@@@@:::::::::@@@@@@@@:
+                                                                    #           :@@@@@@@@@@@@@@@@@@@@@:
+func print_my_project(store_id: int) -> void:                       #              :@@@@@@@@@@@@@@@@:
+    print("https://store.steampowered.com/app/" + str(store_id))    #                   :@@@@@@:
 
 ```
 <!--
